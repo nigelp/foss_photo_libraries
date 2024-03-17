@@ -6,7 +6,7 @@ There are many great free and open-source alternatives to paid photo libraries. 
 
 ```
 ✅ = Feature exists in at least a limited fashion
-🚧 = Feature may exist but may not be practical or officially released
+🚧 = Feature may exist, but may not be practical or officially released
 ❌ = Feature does not yet exist
 #️⃣ = Subjective measure of feature quality (on scale of 0-10)
 Tip: Hover over emoji for additional information (🔗 link to related issue, 🔑 demo credentials, etc)
